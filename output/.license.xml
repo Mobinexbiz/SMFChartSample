@@ -1,0 +1,39 @@
+<ApplicationPackageLicenses>
+    <ApplicationPackageLicense>
+        <CompanyName>Smartface User</CompanyName>
+        <LicenseName>SMFChart</LicenseName>
+        <SASVersion>v5.0.0</SASVersion>
+        <CreateDate>04.11.2016 16:11:10</CreateDate>
+        <ExpireDate>02.11.2026 16:11:10</ExpireDate>
+        <LicenseType>Professional</LicenseType>
+        <PackageType>iOS</PackageType>
+        <PackageName>io.smartface.chart</PackageName>
+        <PackageFeatures>
+            <PackageFeature>
+                <FeatureName>Feature</FeatureName>
+                <FeatureValue>Feature</FeatureValue>
+            </PackageFeature>
+        </PackageFeatures>
+        <TripleDESKey>ffgUaBNqL0UzWuWKxwhpu+E+CeY7Zyezmf/C5KgaiZiew5lq2iRamccVG4MZ3eNkmqZNoXlyqJ3tsE/hjqEOUtP7ue0gXvWCBEpyPppx6y5FBKzc1gxSynvoqB+mmh0snLZNnAXYwd+eMIjBPRPesWFFMZVcpR23GqI/Wf/AOjc=</TripleDESKey>
+        <SignData></SignData>
+    </ApplicationPackageLicense>
+    <ApplicationPackageLicense>
+        <CompanyName>Smartface User</CompanyName>
+        <LicenseName>SMFChart</LicenseName>
+        <SASVersion>v5.0.0</SASVersion>
+        <CreateDate>04.11.2016 16:11:10</CreateDate>
+        <ExpireDate>02.11.2026 16:11:10</ExpireDate>
+        <LicenseType>Professional</LicenseType>
+        <PackageType>Android</PackageType>
+        <PackageName>io.smartface.chart</PackageName>
+        <PackageFeatures>
+            <PackageFeature>
+                <FeatureName>Feature</FeatureName>
+                <FeatureValue>Feature</FeatureValue>
+            </PackageFeature>
+        </PackageFeatures>
+        <TripleDESKey>ffgUaBNqL0UzWuWKxwhpu+E+CeY7Zyezmf/C5KgaiZiew5lq2iRamccVG4MZ3eNkmqZNoXlyqJ3tsE/hjqEOUtP7ue0gXvWCBEpyPppx6y5FBKzc1gxSynvoqB+mmh0snLZNnAXYwd+eMIjBPRPesWFFMZVcpR23GqI/Wf/AOjc=</TripleDESKey>
+        <SignData></SignData>
+    </ApplicationPackageLicense>
+    <TripleDESKeyValue>OC22/DfjQzqE9Bn3KN80VNBzR2ntifIW</TripleDESKeyValue>
+</ApplicationPackageLicenses>
